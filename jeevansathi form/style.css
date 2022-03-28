@@ -1,0 +1,242 @@
+.main_box{
+	height: 583px;
+	width: 485px;
+	background-color: #ffffff;
+	border: 1px solid black;
+	position: relative;
+}
+.head{
+	width: 100%;
+	height: 80px;
+	background-color: #d9475c;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	margin: auto;
+}
+#register{
+	width: 281px;
+	color: white;
+	font-size: 34px;
+	font-weight: bold;
+	position: absolute;
+	top: 14px;
+	left: 103px;
+	margin:auto;
+}
+#meet_over{
+	width: 206px;
+	color: white;
+	font-size: 19px;
+	position: absolute;
+	top: 51px;
+	left: 139px;
+	margin:auto;
+	
+}
+#member p{
+	font-size: 12px;
+	color: #5ebfe9;
+	position: absolute;
+	top: 88px;
+	left: 398px;
+}
+.email{
+	position: absolute;
+	top: 127px;
+	left: 152px;
+}
+.email p{
+	width: 100px;
+    font-size: 12px;
+    position: absolute;
+    top: -2px;
+    left: -135px;
+}
+.email input{
+	width: 303px;
+	height: 26px;
+	border: 1px solid #dfe0e3;
+	color: #999999;
+	padding-left: 10px;
+	box-sizing: border-box;
+}
+.Password{
+	top: 161px;
+}
+.create{
+	top: 198px;
+}
+.create select{
+    color: #999999;
+    width: 305px;
+    height: 28px;
+    border: 1px solid #dfe0e3;
+    padding-left: 8px;
+	box-sizing: border-box;
+}
+.create option{
+	color: #999999;
+}
+.date{
+	position: absolute;
+	left: 152px;
+	top: 233px;
+}
+.date p{
+	width: 100px;
+    font-size: 12px;
+    position: absolute;
+    top: -2px;
+    left: -135px;
+}
+.date .day select{
+	position: absolute;
+	left: 0px;
+	top: 1px;
+	height: 26px;
+	width: 60px;
+	border: 1px solid #dfe0e3;
+	color: #999999;
+}
+.date .month select{
+	position: absolute;
+	left: 86px;
+	top: 1px;
+	height: 26px;
+	width: 70px;
+	border: 1px solid #dfe0e3;
+	color: #999999;
+}
+.date .year select{
+	position: absolute;
+	left: 177px;
+	top: 1px;
+	height: 26px;
+	width: 65px;
+	border: 1px solid #dfe0e3;
+	color: #999999;
+}
+.height{
+	top: 270px;
+}
+.marital{
+	top: 310px;
+}
+.mother{
+	top: 350px;
+}
+.religion{
+	top: 390px;
+}
+.religion datalist{
+	color: #999999;	
+}
+.city{
+	top: 430px;
+	display: inline-block;
+}
+.city select{
+	 color: #999999;
+    width: 200px;
+    height: 28px;
+    border: 1px solid #dfe0e3;
+    padding-left: 8px;
+	box-sizing: border-box;
+
+}
+.city .outside input{
+	height: 22px;
+    width: 14px;
+    position: absolute;
+    top: 0px;
+    left: 205px;
+}
+.city .outside label{
+	font-size: 11px;
+    position: absolute;
+    top: 6px;
+    left: 230px;
+    width: 80px;
+}
+.mobile{
+	position: absolute;
+	left: 152px;
+	top: 470px;
+}
+.mobile_suc input{
+	height: 26px;
+	border: 1px solid #dfe0e3;
+	color: #999999;
+	padding-left: 10px;
+	box-sizing: border-box;
+	width: 249px;
+    position: absolute;
+    left: 54px;
+}
+.mobile p{
+	width: 100px;
+    font-size: 12px;
+    position: absolute;
+    top: -2px;
+    left: -135px;
+}
+.mobile .mobile_pre input{
+	width: 42px;
+	height: 26px;
+	border: 1px solid #dfe0e3;
+	color: #999999;
+	padding-left: 9px;
+	box-sizing: border-box; 
+}
+.check{
+	position: absolute;
+	top: 525px;
+}
+.check input{
+	width: 62px;
+    height: 13px;
+    position: absolute;
+    top: 4px;
+}
+.check label .span1{
+	font-size: 12px;
+    position: absolute;
+    top: 6px;
+    left: 54px;
+    width: 202px;
+}
+.check label .s2{
+	top: 20px;
+	font-size: 12px;
+    position: absolute;
+    left: 29px;
+    width: 202px;
+}
+
+.check label .span2 , .s4{
+	font-size: 12px;
+    position: absolute;
+    top: 7px;
+    left: 152px;
+    width: 202px;
+    color: #117daa;
+}
+.check label .s4{
+	top: 20px;
+	left: 177px;
+}
+.join{
+	position: absolute;
+	top: 520px;
+	left: 333px;
+}
+.join input{
+	height: 41px;
+	width: 120px;
+	background-color: #ff8518;
+	font-size: 20px;
+	border-radius: 10px;
+	border: none;
+
+}
